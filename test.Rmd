@@ -1,6 +1,8 @@
 ---
-title: "Tutorial"
-output: learnr::tutorial
+output: 
+  html_document:
+    includes:
+      in_header: test1.html
 runtime: shiny_prerendered
 ---
 
@@ -73,3 +75,6 @@ quiz(
 )
 ```
 
+
+
+<div data-iframe-height></div>

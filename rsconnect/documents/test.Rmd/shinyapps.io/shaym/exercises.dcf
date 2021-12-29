@@ -1,0 +1,13 @@
+name: exercises
+title: exercises
+username:
+account: shaym
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5377808
+bundleId: 5416634
+url: https://shaym.shinyapps.io/exercises/
+when: 1640771685.03796
+lastSyncTime: 1640771685.03796
+asMultiple: FALSE
+asStatic: FALSE
